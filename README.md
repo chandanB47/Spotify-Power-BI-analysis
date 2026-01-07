@@ -18,7 +18,7 @@ Analyze Spotify Top 50 data to understand song and artist performance trends and
 ## 📊 Dashboard Pages
 
 ### Overview Page
-![Overview](screenshots/overview_page.png)
+![Overview](screenshots/Overview_Dashboard.png)
 - Total songs, distinct artists, average popularity, average duration
 - Explicit vs non-explicit song comparison
 - Songs by album type
